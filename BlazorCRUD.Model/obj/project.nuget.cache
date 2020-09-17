@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VPM++FoQydWxeJlCrsN55d+r9Hkns24Vbi1w4s85BSo3XKetc78al6MzzybDPu1goAJZUB0pU4KJ0xbS+OGQOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Blazor\\BlazorCRUD\\BlazorCRUD.Model\\BlazorCRUD.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
